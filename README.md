@@ -1,7 +1,7 @@
 # TLclassification
 The code for reproducing the simulation results in Transfer Learning for classification.
 
-- To produce Figure 1, run `lda_simu.R`
+- To produce Figure 1, run `lda_simu.R`, or `simu_nonoise.py` then `csv2plot.R`.
 
 ## Reference
 E. Dobriban, S. Wager: High-Dimensional Asymptotics of Prediction: Ridge Regression and Classification, 
