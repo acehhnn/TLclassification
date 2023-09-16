@@ -121,7 +121,7 @@ def get_df_func(n_train, n_test, gamma, alpha_t, alpha_ratio, rho, etas):
         'value': np.repeat(['Theoretical', 'Empirical'], df.shape[0])
     })
     return rdf
-path = 'D:/THU/stuabd/resch/dr/LearningTheory/code/py/data_nonoise_emp'
+path = 'C:/yourpath'
 if not os.path.exists(path):
     os.makedirs(path)
 
